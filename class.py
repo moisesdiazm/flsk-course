@@ -4,4 +4,4 @@ class ClassName(object):
         super(ClassName, self).__init__()
         self.school = school
         self.name = name
-		
+		#Added line 
